@@ -1,0 +1,1 @@
+Receipe used: [OAUTH 2.0](https://www.passportjs.org/packages/passport-google-oauth20/)
